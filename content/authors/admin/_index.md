@@ -1,12 +1,14 @@
 ---
 title: Mahdi Abdollah Chalaki
 role: Mechanical Engineering student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include include robotics, AI, control engineering,
+  mechatronics and fault detection.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - AI
+  - Control Engineering
+  - Mechatronics
+  - Fault Detection
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,9 +43,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a B.Sc. student in Mechanical Engineering at the University of Tehran. My research interests include Robotics, AI, Control Engineering, Mechatronics and Fault Detection. Currently, I work as an undergraduate researcher at the SEECS Lab under supervision of Dr. Ali Sadighi.\
+\
+I am looking for a M.Sc. (or Ph.D.) program to continue my studies in the mentioned areas.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
