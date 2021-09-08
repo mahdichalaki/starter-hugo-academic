@@ -1,6 +1,7 @@
 ---
 title: Mahdi Abdollah Chalaki
 role: Mechanical Engineering student
+avatar_filename: https://drive.google.com/file/d/1UWEyjtGbezoW1MPjp_icHh7eZdl_PvQ6/view?usp=sharing
 bio: My research interests include include robotics, AI, control engineering,
   mechatronics and fault detection.
 interests:
@@ -24,15 +25,12 @@ organizations:
     url: https://ut.ac.ir/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Mechanical Engineering
+      institution: University of Tehran
+      year: 2021
+    - course: Minor in Management
+      institution: University of Tehran
+      year: 2022
 email: ""
 superuser: true
 highlight_name: true
