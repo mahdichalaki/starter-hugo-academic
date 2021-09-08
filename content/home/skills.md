@@ -7,17 +7,16 @@ title: Skills
 subtitle: null
 active: true
 feature:
-  - description: 90%
-    icon: r-project
+  - description: ''
+    icon: python
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: Python
+  - description:''
+    icon: ''
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Matlab
+  - description:''
+    icon: ''
     icon_pack: fas
-    name: Photography
+    name: Machine Learning
 ---
-Gazebo
