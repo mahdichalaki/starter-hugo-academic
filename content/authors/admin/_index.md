@@ -1,7 +1,7 @@
 ---
 title: Mahdi Abdollah Chalaki
 role: Mechanical Engineering student
-avatar_filename: https://media-exp1.licdn.com/dms/image/C4D03AQHi2sFDW717eA/profile-displayphoto-shrink_400_400/0/1562875925732?e=1636588800&v=beta&t=-Zc2xh2l_mTC6mriHQlNUG7MbTyVQ33GKv8IDHQRqIM
+avatar_filename: avatar.jpg
 bio: My research interests include include robotics, AI, control engineering,
   mechatronics and fault detection.
 interests:
