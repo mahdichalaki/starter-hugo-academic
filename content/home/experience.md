@@ -46,13 +46,33 @@ experience:
     description: Studied basics of computer-vision and literature reviewed bone landmarking
     
   - title: Volunteer Team Member
+    company: SAM (Scientific Association of Mechatronics)
+    company_url: ''
+    company_logo: mechat
+    location: University of Tehran
+    date_start: '2020-10-01'
+    date_end: ''
+    description: |2-
+        SAM (scientific association of mechatronics) is a place for students of the University of Tehran
+        to learn more about mechatronics and robotics. We connect students from different majors so that
+        they could accomplish more advanced projects. SAM also holds subject-related seminars, workshops,
+        and summer courses for those who are interested in mechatronics and robotics. We are known as the
+        center of Arduino and IOT in the mechanical engineering department
+    
+  - title: Volunteer Team Member
     company: SAME (Scientific Association of Mechanical Engineering)
     company_url: ''
     company_logo: same
     location: University of Tehran
     date_start: '2019-06-01'
     date_end: '2020-10-20'
-    description: Studied basics of computer-vision and literature reviewed bone landmarking
+    description: |2-
+        The existence of voluntary scientific associations is an undeniable part of educational systems around
+        the world. These dynamic groups of passionate students try to help others improve their skills by providing
+        them opportunities in research, skill learning and teamwork experience. University of Tehran has +190 student
+        organizations in different majors including engineering, scientific, cultural and artistic fields. These
+        not-profit societies form the biggest network of student-run organizations at Iran. SAME as the most prestigious,
+        active and honored student association of Iran, plays a critical role in University of Tehran.
     
 design:
   columns: '2'
