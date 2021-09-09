@@ -36,15 +36,6 @@ experience:
         * deployed my code to work on a Raspberry Pi Pico
         * Designed a compact enclosure for my device
         
-  - title: Undergraduate Research Assistant
-    company: AIME Lab
-    company_url: ''
-    company_logo: aime
-    location: University of Tehran
-    date_start: '2020-07-01'
-    date_end: '2020-12-20'
-    description: Studied basics of computer-vision and literature reviewed bone landmarking
-    
   - title: Volunteer Team Member
     company: SAM (Scientific Association of Mechatronics)
     company_url: ''
@@ -58,6 +49,15 @@ experience:
         they could accomplish more advanced projects. SAM also holds subject-related seminars, workshops,
         and summer courses for those who are interested in mechatronics and robotics. We are known as the
         center of Arduino and IOT in the mechanical engineering department
+    
+  - title: Undergraduate Research Assistant
+    company: AIME Lab
+    company_url: ''
+    company_logo: aime
+    location: University of Tehran
+    date_start: '2020-07-01'
+    date_end: '2020-12-20'
+    description: Studied basics of computer-vision and literature reviewed bone landmarking
     
   - title: Volunteer Team Member
     company: SAME (Scientific Association of Mechanical Engineering)
