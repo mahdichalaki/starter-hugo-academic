@@ -1,5 +1,5 @@
 ---
-title: Thesis Project
+title: B.Sc. Thesis Project
 summary: Fault detection of a centrifugal pump using a CNN network
 date: "2016-04-27T00:00:00Z"
 
