@@ -30,7 +30,7 @@ education:
       year: 2021
     - course: Minor in Management
       institution: University of Tehran
-      year: 2022
+      year: 2021
 email: ""
 superuser: true
 highlight_name: true
