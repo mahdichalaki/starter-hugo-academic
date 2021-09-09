@@ -41,10 +41,19 @@ experience:
     company_url: ''
     company_logo: aime
     location: University of Tehran
-    date_start: '2010-07-01'
+    date_start: '2020-07-01'
     date_end: '2020-12-20'
     description: Studied basics of computer-vision and literature reviewed bone landmarking
-
+    
+  - title: Volunteer Team Member
+    company: SAME (Scientific Association of Mechanical Engineering)
+    company_url: ''
+    company_logo: same
+    location: University of Tehran
+    date_start: '2019-06-01'
+    date_end: '2020-10-20'
+    description: Studied basics of computer-vision and literature reviewed bone landmarking
+    
 design:
   columns: '2'
 ---
