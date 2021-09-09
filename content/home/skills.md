@@ -7,16 +7,24 @@ title: Skills
 subtitle: null
 active: true
 feature:
-  - icon: r-project
-    icon_pack: fab
-    name: R
-    description: 90%
-  - icon: chart-line
-    icon_pack: fas
-    name: Statistics
-    description: 100%
-  - icon: camera-retro
-    icon_pack: fas
-    name: Photography
-    description: 10%
+  - icon: python
+    icon_pack: custom
+    name: Python
+    description: ''
+  - icon: matlab
+    icon_pack: custom
+    name: Matlab
+    description: ''
+  - icon: tensorflow
+    icon_pack: custom
+    name: TensorFlow
+    description: ''
+  - icon: catia
+    icon_pack: custom
+    name: Catia
+    description: ''
+  - icon: latex
+    icon_pack: custom
+    name: LaTeX
+    description: ''
 ---
