@@ -8,15 +8,15 @@ subtitle: null
 active: true
 feature:
   - icon: python
-    icon_pack: python
+    icon_pack: custom
     name: Python
-    description: ''
+    description: 90%
   - icon: matlab
-    icon_pack: matlab
+    icon_pack: custom
     name: Matlab
-    description: ''
+    description: 90%
   - icon: latex
-    icon_pack: latex
+    icon_pack: custom
     name: LaTeX
-    description: ''
+    description: 90%
 ---
