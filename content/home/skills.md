@@ -15,14 +15,6 @@ feature:
     icon_pack: custom
     name: Matlab
     description: ''
-  - icon: tensorflow
-    icon_pack: custom
-    name: TensorFlow
-    description: ''
-  - icon: catia
-    icon_pack: custom
-    name: Catia
-    description: ''
   - icon: latex
     icon_pack: custom
     name: LaTeX
