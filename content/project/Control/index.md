@@ -26,7 +26,7 @@ slides: example
 ---
 
 In this experiment, a beam has been attached to a shaker and an IMU sensor has been used to measure and record the linear acceleration of the beam's free end.
-By investigating and analyzing IMU data in the frequency domain, a linear transfer function has been approximated which described systems dynamics. (In this part, MATLAB 'frf' and 'fitmag' functions were used)
+By investigating and analyzing IMU data in the frequency domain, a linear transfer function has been approximated which described systems dynamics. (In this part, Matlab 'frf' and 'fitmag' functions were used)
 
 Here, the system input is the voltage applied to a piezoelectric actuator and the output is the accelerometer's data. (both acceleration and position are available through integrating)
 
