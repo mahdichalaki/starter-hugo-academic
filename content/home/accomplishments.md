@@ -24,40 +24,40 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://coursera.org/share/3fe1e155ae4f7ea70319d811d840aacf
-  date_end: "2020-06-05"
-  date_start: ""
+  date_end: ""
+  date_start: "2020-04-20"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Deep Learning Specilization
   url: ""
 - certificate_url: https://coursera.org/share/4ba9ccaa4202e2969dee2a310cd9d488
-  date_end: "2020-04-18"
-  date_start: ""
+  date_end: ""
+  date_start: "2020-04-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Machine Learning
   url: ""
 - certificate_url: https://coursera.org/share/cf7b99357ffe666746097c37913a04f6
-  date_end: "2020-06-09"
-  date_start: ""
+  date_end: ""
+  date_start: "2020-06-07"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
   url: ""
 - certificate_url: https://coursera.org/share/6d27fd9a127785bdad65e34557704908
-  date_end: "2020-06-12"
-  date_start: ""
+  date_end: ""
+  date_start: "2020-06-10"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Convolutional Neural Networks in TensorFlow
   url: ""
 - certificate_url: https://graduation.udacity.com/confirm/KG4NXKPJ
-  date_end: "2020-07-20"
-  date_start: ""
+  date_end: ""
+  date_start: "2020-06-20"
   description: ""
   organization: Udacity
   organization_url: https://www.udacity.com
