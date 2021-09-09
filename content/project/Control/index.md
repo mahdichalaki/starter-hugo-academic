@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: Identification and Control of a Beam's Vibrations
+title: Identification and Control of a Beam's Vibrations
+summary: Automatic Control course final project
 
 date: "2016-04-27T00:00:00Z"
 
