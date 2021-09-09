@@ -30,10 +30,9 @@ experience:
     date_start: '2021-01-20'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
+    
         * Designed a CNN for centrifugal pumps fault detection
-        * deployed my code to work on a Raspberry Pi Pico
+        * Deployed my code on a Raspberry Pi Pico
         * Designed a compact enclosure for my device
         
   - title: Volunteer Team Member
