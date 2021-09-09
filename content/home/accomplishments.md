@@ -22,46 +22,47 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-- certificate_url: https://coursera.org/share/3fe1e155ae4f7ea70319d811d840aacf
-  date_end: ""
-  date_start: "2020-04-20"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Deep Learning Specilization
-  url: ""
-- certificate_url: https://coursera.org/share/4ba9ccaa4202e2969dee2a310cd9d488
-  date_end: ""
-  date_start: "2020-04-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Machine Learning
-  url: ""
-- certificate_url: https://coursera.org/share/cf7b99357ffe666746097c37913a04f6
-  date_end: ""
-  date_start: "2020-06-07"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-  url: ""
-- certificate_url: https://coursera.org/share/6d27fd9a127785bdad65e34557704908
-  date_end: ""
-  date_start: "2020-06-10"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Convolutional Neural Networks in TensorFlow
-  url: ""
-<!-- - certificate_url: https://graduation.udacity.com/confirm/KG4NXKPJ
-  date_end: ""
-  date_start: "2020-06-20"
-  description: ""
-  organization: Udacity
-  organization_url: https://www.udacity.com
-  title: AI Programming with Python Nanodegree
-  url: "" -->
+item:
+  - certificate_url: https://coursera.org/share/3fe1e155ae4f7ea70319d811d840aacf
+    date_end: ""
+    date_start: "2020-04-20"
+    description: ""
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Deep Learning Specilization
+    url: ""
+  - certificate_url: https://coursera.org/share/4ba9ccaa4202e2969dee2a310cd9d488
+    date_end: ""
+    date_start: "2020-04-01"
+    description: ""
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Machine Learning
+    url: ""
+  - certificate_url: https://coursera.org/share/cf7b99357ffe666746097c37913a04f6
+    date_end: ""
+    date_start: "2020-06-07"
+    description: ""
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+    url: ""
+  - certificate_url: https://coursera.org/share/6d27fd9a127785bdad65e34557704908
+    date_end: ""
+    date_start: "2020-06-10"
+    description: ""
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Convolutional Neural Networks in TensorFlow
+    url: ""
+  <!-- - certificate_url: https://graduation.udacity.com/confirm/KG4NXKPJ
+    date_end: ""
+    date_start: "2020-06-20"
+    description: ""
+    organization: Udacity
+    organization_url: https://www.udacity.com
+    title: AI Programming with Python Nanodegree
+    url: "" -->
 
 design:
   columns: '2' 
