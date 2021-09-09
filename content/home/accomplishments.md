@@ -55,14 +55,14 @@ item:
   organization_url: https://www.coursera.org
   title: Convolutional Neural Networks in TensorFlow
   url: ""
-<!-- - certificate_url: https://graduation.udacity.com/confirm/KG4NXKPJ
+- certificate_url: https://graduation.udacity.com/confirm/KG4NXKPJ
   date_end: ""
   date_start: "2020-06-20"
   description: ""
   organization: Udacity
   organization_url: https://www.udacity.com
   title: AI Programming with Python Nanodegree
-  url: "" -->
+  url: ""
 
 design:
   columns: '2' 
