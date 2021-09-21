@@ -39,4 +39,4 @@ I am a B.Sc. student in Mechanical Engineering at the University of Tehran. My r
 \
 I am looking for a M.Sc. (or Ph.D.) program to continue my studies in the mentioned areas.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Mahdi_Chalaki-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
