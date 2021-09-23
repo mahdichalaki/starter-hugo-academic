@@ -20,7 +20,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: Thesis
+slides: ""
 ---
 
 In this project, I tried to design and build a monitoring system that detects centrifugal pump's faults using vibrational signals. 
