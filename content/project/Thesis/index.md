@@ -23,4 +23,8 @@ url_video: ""
 slides: example
 ---
 
-Thisis my project.
+In this project, I tried to design and build a monitoring system that detects centrifugal pump's faults using vibrational signals. 
+
+This system consists of two parts: A device which is installed on the discharge side of the pump, and a centeral processing part. Former device samples vibrational data and sends it to the cloud processing device. There, data will be prepreprocessed and sent into a Deep Convlolutional Neural Network. This system is also able to find out if the emerging fault is of a new type and add it to its directory.
+
+In this project, I was responsible for designing the network architecture, data collection for model training, and designing a compact enclosure for the portable device. 
