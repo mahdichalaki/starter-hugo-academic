@@ -21,7 +21,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 This project has been done as my Mechatronics course final project at the University of Tehran. In this project, a task had been assigned to each group (consisting of three students) to design, build and program a four-legged robot.
