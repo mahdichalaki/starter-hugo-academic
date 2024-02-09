@@ -6,7 +6,7 @@ authors:
 - Mahdi Robati
 - Mohammad Javad Karimi
 - Ali Sadighi
-date: "Dec 2021"
+date: "09-2021"
 doi: "http://dx.doi.org/10.1109/ICSPIS54653.2021.9729350"
 
 # Schedule page publish date (NOT publication's date).
